@@ -36,6 +36,7 @@ Langkah pertama untuk membuat sebuah container menjadi flex, adalah menambahkan 
 
 dengan menggunakan property “flex-direction”, maka kita dapat menentukan arahnya item-item yang ada didalam container.
 ![display1](https://www.gamelab.id/uploads/modules/NEWS/817/Group%2021.png?1628228538451)
+
 ![display2](https://www.gamelab.id/uploads/modules/NEWS/817/Group%2022.png?1628228559883)
 
 - Row (default) : item akan berurutan dari kiri ke kanan
@@ -52,6 +53,7 @@ dengan menggunakan property “flex-direction”, maka kita dapat menentukan ara
 
 defaultnya, item pada flex akan mencoba masuk atau fit ke dalam satu baris atau row. Kita bisa membuat item yang berlebihan untuk lanjut ke baris atau kolom berikutnya.
 ![wrap1](https://www.gamelab.id/uploads/modules/NEWS/817/Group%2023.png?1628228598739)
+
 ![wrap2](https://www.gamelab.id/uploads/modules/NEWS/817/Group%2024.png?1628228613938)
 
 - Nowrap (default): semua item akan berada di satu baris
@@ -66,6 +68,7 @@ defaultnya, item pada flex akan mencoba masuk atau fit ke dalam satu baris atau 
 
 property ini memungkinkan kita mengkontrol atas penyelarasan (alignment) item flex yang berada di dalam container.
 ![J1](https://www.gamelab.id/uploads/modules/NEWS/817/Group%2025.png?1628228669251)
+
 ![J2](https://www.gamelab.id/uploads/modules/NEWS/817/Group%2026.png?1628228677875)
 - Flex- start: posisi item akan dikemas pada bagian awal “flex-direction”
 - Flex-end: posisi item akan dikemas pada bagian akhir “flex-direction”
